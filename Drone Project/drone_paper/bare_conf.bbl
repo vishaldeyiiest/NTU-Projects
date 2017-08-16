@@ -1,0 +1,52 @@
+\begin{thebibliography}{10}
+
+\bibitem{mit9}
+Fernard Trujano, Benjamin Chan, Greg Beams, and Reece Rivera.
+\newblock Security analysis of dji phantom 3 standard.
+\newblock 2016.
+
+\bibitem{ROB:ROB21513}
+Andrew~J. Kerns, Daniel~P. Shepard, Jahshan~A. Bhatti, and Todd~E. Humphreys.
+\newblock Unmanned aircraft capture and control via gps spoofing.
+\newblock {\em Journal of Field Robotics}, 31(4):617--636, 2014.
+
+\bibitem{skyjack}
+Samy Kamkar.
+\newblock Skyjack: autonomous drone hacking.
+\newblock {\em Available: http://samy.pl/skyjack}, 2013.
+
+\bibitem{aircrack}
+Aircrack-ng: tools to access wifi network security.
+\newblock {\em Available: http://www.aircrack-ng.org}.
+
+\bibitem{maldrone}
+Maldrone: Backdoor for drones.
+\newblock {\em Available: http://garage4hackers.com/entry.php?b=3105}, 2015.
+
+\bibitem{djisdk}
+Dji sdk for developers.
+\newblock {\em Available: https://developer.dji.com}.
+
+\bibitem{jdgui}
+Jd-gui: standalone java decompiler.
+\newblock {\em Available: http://jd.benow.ca}.
+
+\bibitem{jbe}
+Java bytecode editor.
+\newblock {\em Available: http://set.ee/jbe}.
+
+\bibitem{rkflash}
+rkflashtool: tools for flashing rockchip devices.
+\newblock {\em Available: https://github.com/neo-technologies/rkflashtool}.
+
+\bibitem{labsat}
+Labsat 3: A multi-constellation global navigation satellite simulator.
+\newblock {\em Available:
+  https://www.labsat.co.uk/index.php/en/products/labsat-3}.
+
+\bibitem{wesson2012straight}
+Kyle Wesson, Daniel Shepard, and Todd Humphreys.
+\newblock Straight talk on anti-spoofing.
+\newblock {\em GPS World}, 2012.
+
+\end{thebibliography}
