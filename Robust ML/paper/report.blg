@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: report.aux
+The style file: unsrt.bst
+Database file #1: ref_ml.bib
+I was expecting a `,' or a `}'---line 7 of file ref_ml.bib
+ : 
+ : @misc{alibaba_cloud,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 13 of file ref_ml.bib
+ : 
+ : @misc{nvidia_cloud,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 19 of file ref_ml.bib
+ : 
+ : @misc{intel_cloud,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 25 of file ref_ml.bib
+ : 
+ : @inproceedings{abadi2016deep,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 19 entries,
+            1791 wiz_defined-function locations,
+            532 strings with 7191 characters,
+and the built_in function-call counts, 4753 in all, are:
+= -- 421
+> -- 223
+< -- 8
++ -- 82
+- -- 63
+* -- 266
+:= -- 688
+add.period$ -- 55
+call.type$ -- 19
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 236
+empty$ -- 469
+format.name$ -- 63
+if$ -- 1122
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 15
+newline$ -- 90
+num.names$ -- 15
+pop$ -- 88
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 160
+stack$ -- 0
+substring$ -- 263
+swap$ -- 92
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 41
+width$ -- 21
+write$ -- 187
+(There were 4 error messages)
